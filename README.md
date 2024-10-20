@@ -27,7 +27,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 # How to Use
 
 Clone the repository:
-git clone https://github.com/yourusername/data-preprocessing-ml.git
+git clone https://github.com/Poornachandra77/Data-Preprocessing-for-HealthCare-Data.git
 
 Navigate to the project directory:
 cd data-preprocessing-ml
