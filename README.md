@@ -1,4 +1,4 @@
-## Data-Preprocessing-for-HealthCare-Data
+# Data-Preprocessing-for-HealthCare-Data
 
 # Overview
 This Jupyter Notebook demonstrates essential data preprocessing techniques used in machine learning workflows to improve model performance. The focus is on preparing raw data for machine learning tasks, including handling missing values, scaling features, encoding categorical data, and removing outliers. The notebook utilizes a healthcare dataset and evaluates how various preprocessing methods impact the accuracy of the machine learning model.
